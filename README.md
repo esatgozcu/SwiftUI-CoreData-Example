@@ -1,5 +1,6 @@
 # CoreData with SwiftUI - Simple Example
 This app is made for CRUD operations of CoreData with SwiftUI. We made a simple app and a rudimentary UI to understand CoreData more easy.
+You can also check [this](https://github.com/esatgozcu/SwiftUI-CoreData-Relationship-Example) repository for relationship between entities.
 <br />
 <br /> App contains:<br />
 * SwiftUI<br/>
